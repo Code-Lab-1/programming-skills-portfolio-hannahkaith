@@ -11,4 +11,4 @@ elif age < 20:
 elif age < 65:
     print('You\'re an adult oof')
 else:
-    print('You\'re a fossil- an elder :p')
+    print('You\'re an elder :p')
