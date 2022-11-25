@@ -1,4 +1,4 @@
-#Exercise 3 : Stripping Numbers 
+#Exercise 3 : Stripping Names 
 name = "     Ike\t"
 print (name, "Eveland" "\n")
 
